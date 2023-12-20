@@ -16,4 +16,3 @@ zipcode range
 - ```annual_consume_lowtarif_perc```: Percentage of consume during the low tarif hours.
 From 10 p.m. to 7 a.m. and during weekends.
 - ```smartmeter_perc```: percentage of smartmeters in the zipcode ranges
-
