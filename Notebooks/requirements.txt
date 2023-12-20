@@ -20,3 +20,4 @@ joblib
 seaborn
 geopandas
 pymongo 
+Scaller
