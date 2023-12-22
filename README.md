@@ -1,4 +1,4 @@
-### about the requirement dataset : 
+## about the requirement dataset : 
 - ```net_manager``` : code of regional network manager
 - ```Purchase_area```: code of the area where the energy is purchased
 - ```street```: Name of the street
@@ -16,3 +16,8 @@ zipcode range
 - ```annual_consume_lowtarif_perc```: Percentage of consume during the low tarif hours.
 From 10 p.m. to 7 a.m. and during weekends.
 - ```smartmeter_perc```: percentage of smartmeters in the zipcode ranges
+
+## Task 1 : database structure 
+#### One database with 2 Collection (Gas, Electricity)
+
+![uah image dau r]('C:/TaiLieuHocTap/RMIT\C-2023/BigData/asignment2/As2-EEET574/-_-/collections.png')
